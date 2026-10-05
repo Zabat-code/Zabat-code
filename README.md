@@ -1,30 +1,28 @@
-# Gerardo — Desarrollador de Software
+# Gerardo — Software Developer
 
-**Santo Domingo, República Dominicana**
+Full-stack developer focused on web applications, automation tools, and audio software. I build practical solutions that solve real problems.
 
-Desarrollador full-stack con enfoque en aplicaciones web, herramientas de automatización y desarrollo de videojuegos. Apasionado por crear soluciones prácticas que resuelvan problemas reales.
+## Featured Projects
 
-## Proyectos Destacados
-
-| Proyecto | Descripción |
+| Project | Description |
 |---|---|
-| **MidiMate** | Aplicación de piano virtual con sintetizadores |
-| **MidiMate-web** | Versión web de MidiMate |
-| **Braviestale** | Proyecto de videojuego RPG |
-| **LATINDRIVER** | Proyecto de juego (Godot) |
-| **Gas-Selling-APP** | Aplicación de venta de gas |
+| **MidiMate** | Virtual piano application with synthesizers |
+| **MidiMate-web** | Web version of MidiMate |
+| **Gas-Selling-APP** | Gas sales management application |
+| **LATINDRIVER** | Interactive application built with Godot |
+| **Braviestale** | Creative project with Ren'Py |
 
-## Tecnologías
+## Technologies
 
-- **Lenguajes:** Python, C#, PHP, JavaScript, GDScript
+- **Languages:** Python, C#, PHP, JavaScript, GDScript
 - **Frameworks:** Laravel, .NET, Godot, Ren'Py
-- **Herramientas:** Git, Docker, FastAPI, MIDI
+- **Tools:** Git, Docker, FastAPI, MIDI
 
-## Contacto
+## Contact
 
 - 📧 yerralzd@gmail.com
 - 🐙 GitHub: [@Zabat-code](https://github.com/Zabat-code)
 
 ---
 
-⭐ Si te interesa alguno de mis proyectos, no dudes en explorar los repositorios.
+⭐ Feel free to explore my repositories.
